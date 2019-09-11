@@ -1,6 +1,6 @@
 # RPG Game Template
 
-![Demo](https://github.com/harveyjavier/quick-maths/blob/develop/assets/images/feature.gif)
+![Demo](https://github.com/harveyjavier/rpg-game-template/blob/develop/assets/images/feature.gif)
 
 A simple rpg game template.
 
