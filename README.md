@@ -2,7 +2,7 @@
 
 ![Demo](https://github.com/harveyjavier/rpg-game-template/blob/develop/assets/images/feature.gif)
 
-A simple rpg game template.
+A simple RPG game template for Android and iOS
 
 ## Getting Started
 
