@@ -21,7 +21,7 @@ Simply clone the project and open it on the Corona simulator by selecting the ma
 * [Corona SDK](https://coronalabs.com/) - A cross-platform framework ideal for rapidly creating apps and games for mobile devices and desktop systems.
 * [Lua](https://www.lua.org/) - A powerful, efficient, lightweight, embeddable scripting language.
 
-## Authors
+## Author
 
 * **Harvey Javier**
 
